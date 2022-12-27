@@ -1,2 +1,2 @@
 # Second-Git
-This is the our Project
+This is the Second Git
